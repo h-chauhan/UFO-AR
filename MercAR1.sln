@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercAR1", "MercAR1.csproj", "{20EDF799-689F-3348-6064-22922F28D3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercAR1.Editor", "MercAR1.Editor.csproj", "{6A24FA0E-5ED8-0CB5-41A8-A896AF0B69A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20EDF799-689F-3348-6064-22922F28D3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EDF799-689F-3348-6064-22922F28D3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EDF799-689F-3348-6064-22922F28D3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EDF799-689F-3348-6064-22922F28D3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A24FA0E-5ED8-0CB5-41A8-A896AF0B69A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A24FA0E-5ED8-0CB5-41A8-A896AF0B69A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A24FA0E-5ED8-0CB5-41A8-A896AF0B69A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A24FA0E-5ED8-0CB5-41A8-A896AF0B69A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
